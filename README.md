@@ -1,5 +1,7 @@
 # ICC Men's T20 World Cup 2022 Insights
 
+![Uploading 270252053-4ffa3eda-ab5e-41b1-9699-5f8c62de0858.png…]()
+
 # Overview
 
 The ICC Men's T20 World Cup is a cricket tournament played among multiple teams. In this project, I developed a Microsoft Power BI dashboard to gather insights for team formation and the creation of winning strategies.
