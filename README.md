@@ -1,6 +1,6 @@
 # ICC Men's T20 World Cup 2022 Insights
 
-![Uploading 270252053-4ffa3eda-ab5e-41b1-9699-5f8c62de0858.png…]()
+![IMG_20230925_115201](https://github.com/MohdAkif919/ICC-Men-s-T20-Cricket-World-Cup-2022-Data-Analytics-Project/assets/58876003/4ffa3eda-ab5e-41b1-9699-5f8c62de0858)
 
 # Overview
 
