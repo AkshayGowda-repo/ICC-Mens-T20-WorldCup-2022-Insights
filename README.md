@@ -6,7 +6,7 @@
 
 The ICC Men's T20 World Cup is a cricket tournament played among multiple teams. In this project, I developed a Microsoft Power BI dashboard to gather insights for team formation and the creation of winning strategies.
 
-**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiYThjODI5M2ItYmI1Yi00YzdiLTg3NWEtMzJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+**Live Dashboard:** [Click here](https://app.powerbi.com/view?r=eyJrIjoiYzA1YjQ0YzAtNzRkZS00Njc0LTgyYTAtODg4NTU5M2EyMGNjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 # Key Highlights
 
